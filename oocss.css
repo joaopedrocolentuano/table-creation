@@ -1,0 +1,48 @@
+.theme-light {
+  background-color: darkred;
+  color: whitesmoke;
+  border: 1px solid black;
+}
+
+.theme-sucess {
+  background-color: green;
+}
+
+.theme-fail {
+  background-color: red;
+}
+
+body {
+  width: 350px;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+}
+
+.card {
+  max-width: 350px;
+  padding: 10px;
+}
+
+.image {
+  max-width: 300px;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+.description {
+  text-align: center;
+}
+
+.buttons-cnt {
+  padding: 5px;
+  margin: 0 0 10px 15px;
+}
+
+button {
+  padding: 5px;
+}
+
+
